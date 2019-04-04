@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eb3e274-6008-4207-ad3d-bff5f9a486d3" name="Default Changelist" comment="" />
+    <list default="true" id="1eb3e274-6008-4207-ad3d-bff5f9a486d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPG-GAME/classes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPG-GAME/classes/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes and objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hey/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hey/enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instance&amp;dnamic variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/real-world-calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop continue statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop game.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
