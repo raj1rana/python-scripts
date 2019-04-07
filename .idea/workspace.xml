@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eb3e274-6008-4207-ad3d-bff5f9a486d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/get http variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pillow the image processing library (PIL).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +14,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/introduction to request.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-end-line="12" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/filebypython">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/get http variables.py">
+        <entry file="file://$PROJECT_DIR$/Pillow the image processing library (PIL).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,6 +51,7 @@
         <option value="$PROJECT_DIR$/javascript object notation (JSON).py" />
         <option value="$PROJECT_DIR$/introduction to request.py" />
         <option value="$PROJECT_DIR$/get http variables.py" />
+        <option value="$PROJECT_DIR$/Pillow the image processing library (PIL).py" />
       </list>
     </option>
   </component>
@@ -97,8 +97,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get http variables">
-    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Pillow the image processing library (PIL)">
+    <configuration name="Pillow the image processing library (PIL)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pychrm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pillow the image processing library (PIL).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Pillow the image processing library (PIL)" />
         <item itemvalue="Python.get http variables" />
         <item itemvalue="Python.introduction to request" />
         <item itemvalue="Python.javascript object notation (JSON)" />
         <item itemvalue="Python.reading and writing file in python" />
-        <item itemvalue="Python.functions" />
       </list>
     </recent_temporary>
   </component>
@@ -236,19 +236,39 @@
       <window_info anchor="bottom" id="Inspection Results" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29041097" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29041097" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24543288" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32876712" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29041097" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Pratice.py" />
@@ -293,9 +313,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filebypython">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -332,8 +349,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get http variables.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/simplejson/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/simplejson/errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/simplejson/raw_json.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/simplejson/scanner.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bin/pip3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filebypython">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pillow the image processing library (PIL).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
