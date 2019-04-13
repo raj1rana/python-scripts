@@ -1,4 +1,4 @@
-"""in this we will get and downlod the images from python"""
+"""in this we will get and downlod the images from python here we create a functuon and call it two times that turn this into a loop"""
 from bs4 import BeautifulSoup
 from PIL import Image
 from io import BytesIO
