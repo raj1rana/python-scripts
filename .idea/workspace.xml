@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eb3e274-6008-4207-ad3d-bff5f9a486d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/py_mongoTutorials/Multiple find conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py_mongoTutorials/Datetime and keywords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,13 +66,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py_mongoTutorials/Multiple find conditions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="225">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="34" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/py_mongoTutorials/Datetime and keywords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding>
+                <element signature="e#81#96#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,6 +141,7 @@
         <option value="$PROJECT_DIR$/py_mongoTutorials/Bulk inserts(inserting multiple documents at a same time).py" />
         <option value="$PROJECT_DIR$/py_mongoTutorials/Counting Documents.py" />
         <option value="$PROJECT_DIR$/py_mongoTutorials/Multiple find conditions.py" />
+        <option value="$PROJECT_DIR$/py_mongoTutorials/Datetime and keywords.py" />
       </list>
     </option>
   </component>
@@ -181,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Multiple find conditions">
+  <component name="RunManager" selected="Python.Datetime and keywords">
     <configuration name="Bulk inserts(inserting multiple documents at a same time)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pychrm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Image scraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Datetime and keywords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pychrm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebScrapper_project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py_mongoTutorials" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebScrapper_project/Image scraper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py_mongoTutorials/Datetime and keywords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Datetime and keywords" />
         <item itemvalue="Python.Multiple find conditions" />
         <item itemvalue="Python.Counting Documents" />
         <item itemvalue="Python.Inserting documents" />
         <item itemvalue="Python.Bulk inserts(inserting multiple documents at a same time)" />
-        <item itemvalue="Python.Image scraper" />
       </list>
     </recent_temporary>
   </component>
@@ -655,10 +668,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/py_mongoTutorials/Multiple find conditions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="34" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py_mongoTutorials/Datetime and keywords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="e#81#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
