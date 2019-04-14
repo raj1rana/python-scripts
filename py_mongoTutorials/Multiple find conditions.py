@@ -13,6 +13,5 @@ Users = db.users   #this  is the table
 
 
 
-Users.find()
 lastcount = Users.count_documents({"password": "gadha","Name": "biju"})
 print(lastcount)
